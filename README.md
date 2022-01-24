@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @frontleft
-- 👀 I’m interested in React, computational geometry, and bouldering.
 - 🌱 I’m currently building full-stack web applications @Econify.
 
 <!---
